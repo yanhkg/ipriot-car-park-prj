@@ -5,8 +5,8 @@ class Display:
         self.is_on = is_on
 
     def __str__(self):
-        return f"Display {self.id}: Welcome to the car park."
+        return f"Display {self.id}: {self.message}"
 
     def update(self, data):
         for key, value in data.items():
-            print(f"{key}: {value}")
+            self.__dict__[key] = value
