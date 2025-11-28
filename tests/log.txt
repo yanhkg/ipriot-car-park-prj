@@ -1,0 +1,5 @@
+NEW-001 entered at 2025-11-28 08:49:36
+NEW-001 entered at 2025-11-28 08:49:49
+NEW-001 entered at 2025-11-28 08:50:12
+NEW-001 entered at 2025-11-28 08:50:34
+NEW-001 exited at 2025-11-28 08:50:34
